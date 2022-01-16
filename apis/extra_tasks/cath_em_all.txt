@@ -1,0 +1,82 @@
+{
+    "bulbasaur": {
+        "height": 7,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    "ivysaur": {
+        "height": 10,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    },
+    "venusaur": {
+        "height": 20,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+    },
+    "charmander": {
+        "height": 6,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    },
+    "charmeleon": {
+        "height": 11,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+    },
+    "charizard": {
+        "height": 17,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    "squirtle": {
+        "height": 5,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    "wartortle": {
+        "height": 10,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    },
+    "blastoise": {
+        "height": 16,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    },
+    "caterpie": {
+        "height": 3,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+    },
+    "metapod": {
+        "height": 7,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+    },
+    "butterfree": {
+        "height": 11,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+    },
+    "weedle": {
+        "height": 3,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+    },
+    "kakuna": {
+        "height": 6,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+    },
+    "beedrill": {
+        "height": 10,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+    },
+    "pidgey": {
+        "height": 3,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+    },
+    "pidgeotto": {
+        "height": 11,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+    },
+    "pidgeot": {
+        "height": 15,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+    },
+    "rattata": {
+        "height": 3,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+    },
+    "raticate": {
+        "height": 7,
+        "front_update": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    }
+}
